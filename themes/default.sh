@@ -75,6 +75,7 @@ if [ -z $TMUX_POWERLINE_RIGHT_STATUS_SEGMENTS ]; then
 		#"rainbarf 0 0" \
 		#"xkb_layout 125 117" \
 		#"date_day 235 136" \
+		"date_day ${VIOLET} ${BASE3}" \
 		"date ${VIOLET} ${BASE3} ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 		"time ${VIOLET} ${BASE3} ${TMUX_POWERLINE_SEPARATOR_LEFT_THIN}" \
 		"weather ${CYAN} ${BASE3}" \
