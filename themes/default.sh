@@ -51,8 +51,8 @@ if [ -z $TMUX_POWERLINE_LEFT_STATUS_SEGMENTS ]; then
 		"hostname ${BASE03} ${YELLOW}" \
 		#"ifstat 30 255" \
 		#"ifstat_sys 30 255" \
-		"lan_ip ${BASE02} ${GREEN} ${TMUX_POWERLINE_SEPARATOR_RIGHT_THIN}" \
-		"wan_ip ${BASE02} ${BLUE}" \
+		#"lan_ip ${BASE02} ${GREEN} ${TMUX_POWERLINE_SEPARATOR_RIGHT_THIN}" \
+		#"wan_ip ${BASE02} ${BLUE}" \
 		#"vcs_branch 29 88" \
 		#"vcs_compare 60 255" \
 		#"vcs_staged 64 255" \
